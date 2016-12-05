@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914508620682",
+    "firebase_url": "https://pgfinderfirebase.firebaseio.com",
+    "project_id": "pgfinderfirebase",
+    "storage_bucket": "pgfinderfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914508620682:android:a99119b8235cfebd",
+        "android_client_info": {
+          "package_name": "com.deepak.pgfinderfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914508620682-dgfjr81m51it6c4hdcmvuaqjc8d21jad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepak.pgfinderfirebase",
+            "certificate_hash": "252B42CAA6960930449DBD8D022F3A484C490076"
+          }
+        },
+        {
+          "client_id": "914508620682-rdg9b3aakfp5jlha3gpjfhh7jcnom2t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xZZRUaPrTsIVrBs-jPqUpDTLRNPwlI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914508620682-rdg9b3aakfp5jlha3gpjfhh7jcnom2t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
